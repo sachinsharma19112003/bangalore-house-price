@@ -125,7 +125,7 @@ xgboost_model.pkl
 ### 1️⃣ Clone Repository
 
 ```
-git clone gh repo clone sachinsharma19112003/bangalore-house-price
+gh repo clone sachinsharma19112003/bangalore-house-price
 ```
 
 ### 2️⃣ Install Dependencies
