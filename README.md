@@ -152,7 +152,7 @@ Performance metrics ensure reliability for real-world usage scenarios.
 
 ## 🌐 Deployment
 
-The application can be deployed on:
+The application can be deployed on: https://bangalore-house-price-rvn27hxuhrxxfbnmvqxoue.streamlit.app/
 
 * Streamlit Cloud
 
